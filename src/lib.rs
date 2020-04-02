@@ -1,3 +1,2 @@
 #[cfg(test)]
-mod Node; 
-mod Beam;
+pub mod NodeComp; 
